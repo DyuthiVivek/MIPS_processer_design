@@ -23,7 +23,7 @@ addi = [0, 1, 0, 1, 0, 0, 0, '00', 0]
 def instructions(inp = 0):
 
     if inp == 0:
-        with open("IMT2022523_IMT2022572_factorial_machine_code.txt","r") as f:
+        with open("factorial_machine_code.txt","r") as f:
             instruction_memory = [x.strip('\n') for x in f.readlines()]
 
         data_memory = {}
@@ -45,7 +45,7 @@ def instructions(inp = 0):
                     '$gp': 0, '$sp': 0, '$fp': 0, '$ra': 0
                 }
     
-    with open("IMT2022523_IMT2022572_sorting_machine_code.txt","r") as f:
+    with open("sorting_machine_code.txt","r") as f:
         instruction_memory = [x.strip('\n') for x in f.readlines()]
     return instruction_memory, data_memory, register_file
 

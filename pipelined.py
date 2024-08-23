@@ -1,4 +1,4 @@
-from IMT2022523_IMT2022572_utils import *
+from utils import *
 
 # To run factorial, give input to instructions() as 0
 # To run sorting, give input to instructions() as 1
