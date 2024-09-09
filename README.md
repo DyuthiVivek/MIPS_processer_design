@@ -32,3 +32,7 @@ The pipelined design improves performance by filling the pipeline with instructi
 By comparing these two architectures, the simulation aims to demonstrate the efficiency gains of pipelining in processor design and explore the complexities involved in handling different types of hazards. The project also includes performance metrics, such as the number of clock cycles required to execute a program, to quantitatively analyze the benefits of pipelining.
 
 Observed that the pipelined processor executed the programs faster than the non-pipelined processor.
+
+## Contributers
+1.Dyuthi Vivek
+2.PVS.Sukeerthi
