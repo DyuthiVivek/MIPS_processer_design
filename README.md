@@ -33,6 +33,7 @@ By comparing these two architectures, the simulation aims to demonstrate the eff
 
 Observed that the pipelined processor executed the programs faster than the non-pipelined processor.
 
-## Contributers
-1.Dyuthi Vivek
-2.PVS.Sukeerthi
+## Contributors
+
+1. Dyuthi Vivek
+2. PVS.Sukeerthi
